@@ -18,7 +18,7 @@
         "node-red-contrib-iot-virtual-device":"0.x",
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-contrib-kafka-node":"0.1.7",
+        "node-red-contrib-messagehub-node":"0.0.1",
         "node-red-nodes-cf-sqldb-dashdb":"0.2.23"
     },
     "scripts": {
