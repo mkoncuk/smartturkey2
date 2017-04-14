@@ -1,0 +1,14 @@
+applications:
+- path: .
+  memory: 1536M
+  instances: 1
+  domain: mybluemix.net
+  name: smartturkey
+  host: smartturkey
+  disk_quota: 1024M
+  services:
+  - WeatherInsights
+  - smartturkey-cloudantNoSQLDB
+  - smartturkey-iotf-service
+  - Message Hub-ga
+  - Object Storage-ai
